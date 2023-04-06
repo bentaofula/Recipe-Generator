@@ -1,3 +1,3 @@
 ## Recipe Generator
-## Authr's Name
+## Author's Name
 Benta Ofula
