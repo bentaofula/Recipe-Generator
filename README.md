@@ -1,6 +1,8 @@
 ## Recipe Generator
+* Generates random recipes using Recipe Generator. Find new ingredients and spices and cooking methods/procedures for dinner or lunch.
 ## Author's Name
 Benta Ofula
+
 # Technologies used
 * HTML
 * CSS
